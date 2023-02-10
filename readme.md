@@ -2,12 +2,16 @@
 
 Lets start with some surveys:
 ### 1. Node representation learning:
+[[awesome repository]](https://github.com/Oceanusity/awesome-gnns-on-large-scale-graphs)
 ### 2. Temporal graph representation learning:
+[[awesome repository]](https://github.com/Oceanusity/awesome-gnns-on-large-scale-graphs)
 ### 3. Bipartite Graph representation learning:
+[[awesome repository]](https://github.com/Oceanusity/awesome-gnns-on-large-scale-graphs)
 ### 4. Scalable GNNs
 [[awesome repository]](https://github.com/Oceanusity/awesome-gnns-on-large-scale-graphs)
 
 ### 5. Explainable GNN
+[[awesome repository]](https://github.com/flyingdoog/awesome-graph-explainability-papers)
 1. **Explainability in graph neural networks: A taxonomic survey**. *Yuan Hao, Yu Haiyang, Gui Shurui, Ji Shuiwang*. ARXIV 2020. [paper](https://arxiv.org/pdf/2012.15445.pdf)
 2. **A Survey of Explainable Graph Neural Networks: Taxonomy and Evaluation Metrics** [paper](https://arxiv.org/pdf/2207.12599.pdf)
 3. **Trustworthy Graph Neural Networks: Aspects, Methods and Trends** [paper](https://arxiv.org/pdf/2205.07424.pdf)
@@ -16,6 +20,7 @@ Lets start with some surveys:
 6. **Explaining the Explainers in Graph Neural Networks: a Comparative Study** [paper](https://arxiv.org/pdf/2210.15304.pdf)
 
 ### 6. Adversarial attack defense
+[[awesome repository]](https://github.com/Oceanusity/awesome-gnns-on-large-scale-graphs)
 1. **Adversarial Attacks and Defenses on Graphs: A Review and Empirical Study.**
    *Wei Jin, Yaxin Li, Han Xu, Yiqi Wang, Shuiwang Ji, Charu C Aggarwal, Jiliang Tang.*  SIGKDD Explorations 2020. [[paper]](https://arxiv.org/abs/2003.00653) [[code]](https://github.com/DSE-MSU/DeepRobust/)
 1. **A Survey of Adversarial Learning on Graphs.**
@@ -26,5 +31,11 @@ Lets start with some surveys:
 *Lichao Sun, Ji Wang, Philip S. Yu, Bo Li.* arviv 2018. [[paper]](https://arxiv.org/pdf/1812.10528.pdf) 
 
 ### 7. Structure Learning on Graphs
+[[awesome repository]](https://github.com/Oceanusity/awesome-gnns-on-large-scale-graphs)
 
 ### 8.Spectral Learning on Graphs
+[[awesome repository]](https://github.com/Oceanusity/awesome-gnns-on-large-scale-graphs)
+### 9. Semisupervised Graph
+### 10. Graph Generation
+### 11. Reinforcement Learning in Graphs
+### 12. Causal GNNs
