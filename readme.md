@@ -1,10 +1,10 @@
-#All about graphs
+# All about graphs
 
 Lets start with some surveys:
-###1. Node representation learning:
-###2. Temporal graph representation learning:
-###3. Bipartite Graph representation learning:
-###4. Scalable GNNs
+### 1. Node representation learning:
+### 2. Temporal graph representation learning:
+### 3. Bipartite Graph representation learning:
+### 4. Scalable GNNs
 
 ### 5. Explainable GNN
 1. **Explainability in graph neural networks: A taxonomic survey**. *Yuan Hao, Yu Haiyang, Gui Shurui, Ji Shuiwang*. ARXIV 2020. [paper](https://arxiv.org/pdf/2012.15445.pdf)
@@ -14,7 +14,7 @@ Lets start with some surveys:
 5. **A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection** [paper](https://arxiv.org/abs/2205.10014)
 6. **Explaining the Explainers in Graph Neural Networks: a Comparative Study** [paper](https://arxiv.org/pdf/2210.15304.pdf)
 
-###6. Adversarial attack defense
+### 6. Adversarial attack defense
 1. **Adversarial Attacks and Defenses on Graphs: A Review and Empirical Study.**
    *Wei Jin, Yaxin Li, Han Xu, Yiqi Wang, Shuiwang Ji, Charu C Aggarwal, Jiliang Tang.*  SIGKDD Explorations 2020. [[paper]](https://arxiv.org/abs/2003.00653) [[code]](https://github.com/DSE-MSU/DeepRobust/)
 1. **A Survey of Adversarial Learning on Graphs.**
@@ -24,6 +24,6 @@ Lets start with some surveys:
 1. **Adversarial Attack and Defense on Graph Data: A Survey.**
 *Lichao Sun, Ji Wang, Philip S. Yu, Bo Li.* arviv 2018. [[paper]](https://arxiv.org/pdf/1812.10528.pdf) 
 
-###7. Structure Learning on Graphs
+### 7. Structure Learning on Graphs
 
-###8.Spectral Learning on Graphs
+### 8.Spectral Learning on Graphs
