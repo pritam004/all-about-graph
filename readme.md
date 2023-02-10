@@ -5,6 +5,7 @@ Lets start with some surveys:
 ### 2. Temporal graph representation learning:
 ### 3. Bipartite Graph representation learning:
 ### 4. Scalable GNNs
+[[awesome repository]](https://github.com/Oceanusity/awesome-gnns-on-large-scale-graphs)
 
 ### 5. Explainable GNN
 1. **Explainability in graph neural networks: A taxonomic survey**. *Yuan Hao, Yu Haiyang, Gui Shurui, Ji Shuiwang*. ARXIV 2020. [paper](https://arxiv.org/pdf/2012.15445.pdf)
